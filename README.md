@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/bia.jpg" alt="Banner Phòng Chống Bạo Lực Học Đường" width="100%" />
+<img src="images/bia.jpg" alt="Banner" width="100%" />
 
 <br />
 
@@ -20,12 +20,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/hql-coder/thuyet_trinh_nhom_6?style=social)](https://github.com/hql-coder/thuyet_trinh_nhom_6/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/hql-coder/thuyet_trinh_nhom_6?style=social)](https://github.com/hql-coder/thuyet_trinh_nhom_6/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red.svg?style=flat-square)](#)
 
 <br />
 
-**[🚀 Xem Demo](https://hql-coder.github.io/thuyet_trinh_nhom_6/) · [📖 Hướng Dẫn](#-cách-chạy) · [🐛 Báo Lỗi](https://github.com/hql-coder/thuyet_trinh_nhom_6/issues) · [💡 Đề Xuất](https://github.com/hql-coder/thuyet_trinh_nhom_6/issues)**
+**[🚀 Xem Demo](https://hql-coder.github.io/thuyet_trinh_nhom_6/) · [🐛 Báo Lỗi](https://github.com/hql-coder/thuyet_trinh_nhom_6/issues)**
 
 </div>
 
@@ -44,7 +43,6 @@
 - [🎨 Tùy Chỉnh](#-tùy-chỉnh)
 - [🌐 Deploy Lên GitHub Pages](#-deploy-lên-github-pages)
 - [🛠️ Công Nghệ Sử Dụng](#️-công-nghệ-sử-dụng)
-- [📊 Thống Kê Dự Án](#-thống-kê-dự-án)
 - [🤝 Đóng Góp](#-đóng-góp)
 - [📜 Giấy Phép](#-giấy-phép)
 - [👥 Nhóm Thực Hiện](#-nhóm-thực-hiện)
@@ -56,55 +54,21 @@
 
 > **"Bạo lực học đường không chỉ là vấn đề của riêng ai — đó là vấn đề của cả xã hội."**
 
-Đây là bộ **slide thuyết trình tương tác 14 slide** về chủ đề **Phòng Chống Bạo Lực Học Đường**, được xây dựng bằng **HTML5, CSS3 và JavaScript** hiện đại, sử dụng framework thuyết trình mạnh mẽ nhất hiện nay — **Reveal.js**.
+Bộ **slide thuyết trình tương tác 14 slide** về chủ đề **Phòng Chống Bạo Lực Học Đường**, xây dựng bằng **HTML5, CSS3, JavaScript** với framework **Reveal.js**.
 
-Dự án được thực hiện bởi **Nhóm 6** như một phần của bài thuyết trình môn học, nhằm mục đích nâng cao nhận thức cộng đồng về vấn nạn bạo lực học đường.
-
-### 🎯 Mục Tiêu Dự Án
-
-| Mục tiêu | Mô tả |
-|:--------:|-------|
-| 📚 **Giáo dục** | Nâng cao nhận thức về bạo lực học đường |
-| 🛡️ **Phòng ngừa** | Trang bị kiến thức để phòng tránh |
-| 💪 **Hành động** | Khuyến khích học sinh lên tiếng |
-| 🌈 **Lan tỏa** | Truyền tải thông điệp yêu thương |
+Dự án được thực hiện bởi **Nhóm 6** như một phần bài thuyết trình môn học, nhằm nâng cao nhận thức cộng đồng về vấn nạn bạo lực học đường.
 
 ---
 
 ## ✨ Tính Năng Nổi Bật
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Animation & Hiệu Ứng
-
-- ✅ **Fade-up** — Trượt lên mượt mà
-- ✅ **Slide-in** — Trượt từ trái/phải
-- ✅ **Zoom-in** — Phóng to ấn tượng
-- ✅ **Flip-in** — Lật 3D độc đáo
-- ✅ **Glow** — Phát sáng tiêu đề
-- ✅ **Pulse** — Nhịp đập trái tim
-- ✅ **Particles** — Hạt bay lơ lửng
-- ✅ **Counter** — Đếm số tự động
-
-</td>
-<td width="50%">
-
-### 🚀 Tính Năng Kỹ Thuật
-
-- ✅ **Reveal.js 4.6.1** — Framework mạnh mẽ
-- ✅ **Responsive** — Mobile/Tablet/Desktop
-- ✅ **Phím tắt** — Điều khiển nhanh
-- ✅ **Speaker Notes** — Ghi chú thuyết trình
-- ✅ **Progress Bar** — Thanh tiến trình
-- ✅ **Slide Number** — Số slide
-- ✅ **Export PDF** — Xuất PDF 1 click
-- ✅ **Zero Config** — Chạy ngay không cần setup
-
-</td>
-</tr>
-</table>
+- ✅ **Animation mượt mà** — fade, slide, zoom, flip 60fps
+- ✅ **Particles động** — hạt bay lơ lửng trên slide bìa
+- ✅ **Counter tự động** — đếm số liệu thống kê
+- ✅ **Responsive** — hiển thị đẹp trên mọi thiết bị
+- ✅ **Phím tắt** — điều khiển nhanh chóng
+- ✅ **Speaker Notes** — ghi chú thuyết trình
+- ✅ **Xuất PDF** — chỉ cần `Ctrl + P`
 
 ---
 
@@ -115,43 +79,6 @@ Dự án được thực hiện bởi **Nhóm 6** như một phần của bài t
 ### **[👉 NHẤN VÀO ĐÂY ĐỂ XEM DEMO 👈](https://hql-coder.github.io/thuyet_trinh_nhom_6/)**
 
 </div>
-
-### 📸 Hình Ảnh Minh Họa
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**Slide 1 — Bìa**
-
-<img src="images/bia.jpg" alt="Slide 1" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-**Slide 3 — Thực Trạng**
-
-<img src="images/thuc_trang.jpg" alt="Slide 3" width="100%" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**Slide 10 — Giải Pháp**
-
-<img src="images/giai_phap_1.jpg" alt="Slide 10" width="100%" />
-
-</td>
-<td width="50%" align="center">
-
-**Slide 14 — Kết Thúc**
-
-<img src="images/ket_thuc.jpg" alt="Slide 14" width="100%" />
-
-</td>
-</tr>
-</table>
 
 ---
 
