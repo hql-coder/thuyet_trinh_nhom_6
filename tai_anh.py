@@ -3,7 +3,7 @@ import os
 import time
 
 # ============ CẤU HÌNH ============
-PEXELS_API_KEY = "DÁN_API_KEY_CỦA_BẠN_VÀO_ĐÂY"  # ← Thay key của bạn
+PEXELS_API_KEY = "zPfA1P8f9FIY7e2eiW7fLlg6pKAVGQYPZAla7fT8rSbkLR1TA2KhBcYt"  # ← Thay key của bạn
 THU_MUC_LUU = "images"
 SO_ANH_MOI_TU_KHOA = 3  # Tải 3 ảnh mỗi từ khóa để chọn ảnh đẹp nhất
 
