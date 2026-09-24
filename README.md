@@ -1,3 +1,18 @@
+<div align="center">
+
+<img src="images/bia.jpg" alt="Banner Phòng Chống Bạo Lực Học Đường" width="100%" />
+
+<br />
+
+# 🛡️ PHÒNG CHỐNG BẠO LỰC HỌC ĐƯỜNG
+
+### *Chung tay xây dựng môi trường học tập an toàn — Trường học là nhà*
+
+
+
+
+
+
 # 📄 File README.md Hoàn Chỉnh Cho Repo Của Bạn
 
 Copy toàn bộ nội dung dưới đây, dán vào file `README.md` trong repo `thuyet_trinh_nhom_6`:
